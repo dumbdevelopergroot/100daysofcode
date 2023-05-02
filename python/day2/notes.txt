@@ -1,0 +1,29 @@
+we will learn about:
+    Data types
+    type conversions
+    fstring
+    numbers
+    operations
+    escape characters
+Data Types:
+    string
+        ex: "name"
+    Integer
+        ex: 1, 25, 123_456_758 (large integers can be seperated with underscores)
+    Float
+        ex: 1.2, 5.6, 123_456.78
+    Boolean
+        ex: true, false
+
+type() returns type of data type we are working with.
+    ex: type(5) gives integer
+python follows PEMDAS order
+    ()
+    **
+    * or / }-->both have same level so left to right in the expression
+    + or - }-->both have same level so left to right in the expression
+round() 
+    ex: round(2/3) gives 0 as output
+    ex: round(2/3,3)  gives 0.666 output
+fstrings:
+    
