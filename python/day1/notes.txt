@@ -1,0 +1,31 @@
+input() function:
+    input function takes user input and by default returns input in a string format.
+strings
+variables
+user input
+escape characers
+
+naming variables:
+--------------------------------------------------------------------------
+    a. names should be readable so that it is easy to understand
+    b. use underscores to seperate words ex: user_name
+    c. numberrs cannot be used at beginning of name ex: 1len is not valid as variable name
+    d. dont use python pre-defined keywords as variable name
+    e. varialbe name should be consistent thruout the code (i.e, spellings should be same at declaration and using)
+
+Naming Conventions:
+------------------------------------------------------------------------------------
+Function	Use a lowercase word or words. Separate words by underscores to improve readability.	
+    example: function, my_function
+Variable	Use a lowercase single letter, word, or words. Separate words with underscores to improve readability.	
+    example: x, var, my_variable
+Class	    Start each word with a capital letter. Do not separate words with underscores. This style is called camel case or pascal case.	
+    example: Model, MyClass
+Method	    Use a lowercase word or words. Separate words with underscores to improve readability.	
+    example: class_method, method
+Constant	Use an uppercase single letter, word, or words. Separate words with underscores to improve readability.	
+    example: CONSTANT, MY_CONSTANT, MY_LONG_CONSTANT
+Module	    Use a short, lowercase word or words. Separate words with underscores to improve readability.	
+    example: module.py, my_module.py
+Package	    Use a short, lowercase word or words. Do not separate words with underscores.	
+    example: package, mypackage
