@@ -2,3 +2,6 @@ conditional statements
 blocks
 scope
 logical operators
+    AND
+    OR
+    NOT

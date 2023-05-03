@@ -10,6 +10,8 @@ else:
     elif 12<age<18:
         cost=7
         print("You will be charged $7")
+    elif 45<=age<=55:
+        cost=0
     else:
         cost=12
         print("You will be charged $12")
