@@ -18,7 +18,12 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
                      "Washington", "Idaho", "Wyoming", "Utah", "Oklahoma", "New Mexico", "Arizona", "Alaska", "Hawaii"]
 
 print((states_of_america)[0])
-
+print((states_of_america)[-1])#prints last item in list
+states_of_america.append("spoiderland")
+print((states_of_america)[-1])
+#to extend a list
+states_of_america.extend(["new state 1","new state 2"])
+print(len(states_of_america))
 
 dirty_dozen = ["Strawberries", "Spinach", "Kale", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", 
                "Pears", "Tomatoes", "Celery", "Potatoes"]
